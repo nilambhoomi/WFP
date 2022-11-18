@@ -1,0 +1,13 @@
+﻿<!--Assessment : Start-->
+<Soaps>
+  <Soap type="Assessment"  isChecked="False" name="Patient is responding to therapy with exception of the decreased objective findings as noted above." />
+  <Soap  type="Assessment" isChecked="False" name="Patient is not responding to therapy I will discuss with supervising physician." />
+  <Soap type="Assessment" isChecked="False" name="Patient has met MMI and is discharged with home instructions as requested by supervising physician." />
+  <Soap type="Assessment" isChecked="False" name="" />
+  <!--Assessment : End-->
+  <!--Plan : Start-->
+  <Soap type="Plan" isChecked="False" name="Patient will continue therapy as instructed by supervising physician." />
+  <Soap type="Plan" isChecked="False" name="Patient is discharged at this time with home exercise instructions as requested by supervising physician." />
+  <Soap type="Plan" isChecked="False" name="" />
+</Soaps>
+

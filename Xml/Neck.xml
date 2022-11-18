@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROMS>
+  <ROM>
+    <name>Forward flexion</name>
+    <rom></rom>
+    <normal>50</normal>
+  </ROM>
+  <ROM>
+    <name>Extension</name>
+    <rom></rom>
+    <normal>60</normal>
+  </ROM>
+  <ROM>
+    <name>Rotation Left</name>
+    <rom></rom>
+    <normal>80</normal>
+  </ROM>
+  <ROM>
+    <name>Right</name>
+    <rom></rom>
+    <normal>80</normal>
+  </ROM>
+  <ROM>
+    <name>Left Lateral flexion</name>
+    <rom></rom>
+    <normal>45</normal>
+  </ROM>
+  <ROM>
+    <name>Right Lateral flexion</name>
+    <rom></rom>
+    <normal>45</normal>
+  </ROM>
+</ROMS>

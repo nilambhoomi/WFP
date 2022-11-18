@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROMS>
+  <ROM>
+    <name>plantar flexion</name>
+    <left></left>
+    <right></right>
+    <normal>40</normal>
+  </ROM>
+  <ROM>
+    <name>dorsiflexion</name>
+    <left></left>
+    <right></right>
+    <normal>20</normal>
+  </ROM>
+  <ROM>
+    <name>inversion</name>
+    <left></left>
+    <right></right>
+    <normal>20</normal>
+  </ROM>
+  <ROM>
+    <name>eversion</name>
+    <left></left>
+    <right></right>
+    <normal>30</normal>
+  </ROM>
+
+</ROMS>

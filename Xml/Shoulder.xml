@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROMS>
+  <ROM>
+    <name>Abduction</name>
+    <left></left>
+    <right></right>
+    <normal>120</normal>
+  </ROM>
+  <ROM>
+    <name>Flexion</name>
+    <left></left>
+    <right></right>
+    <normal>30</normal>
+  </ROM>
+
+  <ROM>
+    <name>Ext. rotation</name>
+    <left></left>
+    <right></right>
+    <normal>30</normal>
+  </ROM>
+  <ROM>
+    <name>Int. rotation</name>
+    <left></left>
+    <right></right>
+    <normal>30</normal>
+  </ROM>
+</ROMS>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROMS>
+  <ROM>
+    <name>Rotation</name>
+    <rom></rom>
+    <normal>120</normal>
+  </ROM>
+  <ROM>
+    <name>Lateral flexion</name>
+    <rom></rom>
+    <normal>30</normal>
+  </ROM>
+
+</ROMS>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Soaps>
+  
+  <Rod  isChecked="False" width="30%"  bodypart="cervicalspine-b" isnewline="1" readonly="false" name="On ___mm/dd/yy___ MRI study of the cervical spine revealed ______" />
+
+</Soaps>
+

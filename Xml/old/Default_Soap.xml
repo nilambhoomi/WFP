@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Soaps>
+  <ShowInitial>true</ShowInitial>
+  <!--Treatment Start  Note only selected attribute is used for the default selection and id is used so please do not change id. -->
+  <Modalitiess>
+    <Modalities text="Moist heat / ice pack application" id="1" selected="true" name="Modalities1" />
+    <Modalities text="Electric stimulation / TENS	" id="2" selected="false" name="Modalities2" />
+    <Modalities text="Ultrasound " id="3" selected="true" name="Modalities3" />
+    <Modalities text="Paraffin " id="4" selected="true" name="Modalities4" />
+  </Modalitiess>
+  <Manualtreatmentss>
+    <Manualtreatments text="Myofascial release" id="1" selected="true" name="Manualtreatment1" />
+    <Manualtreatments text="NMR" id="2"  selected="false" name="Manualtreatment2" />
+    <Manualtreatments text="Manual massage" id="3" selected="true" name="Manualtreatment3" />
+    <Manualtreatments text="Joint mobilization" id="4" selected="true" name="Manualtreatment4" />
+  </Manualtreatmentss>
+  <Others>
+    <Other text="Therapeutic exercise" id="1"  selected="true" name="Other1" />
+    <Other text="Stretching exercises" id="2" selected="true" name="Other2" />
+    <Other text="Progressed strengthening with theraband (as tolerated)" id="3" selected="true" name="Other3" />
+    <Other text="Progressed strengthening with weights (as tolerated)" id="4" selected="true" name="Other4" />
+    <Other text="Progressed strengthening with theraband (as tolerated) " id="5" selected="true" name="Other5" />
+    <Other text="Progressed strengthening with weights (as tolerated)" id="6" selected="true" name="Other6" />
+    <Other text="Gait training" id="7" selected="true" name="Other7" />
+    <Other text="Strengthening exercises " id="8" selected="true" name="Other8" />
+    <Other text="Range of motion exercises" id="9" selected="true" name="Other9" />
+    <Other text="Other body parts treated:" id="10" selected="true" name="Other10" />
+  </Others>
+  <!--Treatment End-->
+</Soaps>

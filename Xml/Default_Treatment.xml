@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TreatMents>
+  <TreatMent  isChecked="False" name="I recommend physical therapy treatment to ______________ as follows: " />
+  <TreatMent  isChecked="False" name="moist heat application, " />
+  <TreatMent  isChecked="False" name="ice pack application, " />
+  <TreatMent  isChecked="False" name="electric stimulation in low voltage, " />
+  <TreatMent  isChecked="False" name="therapeutic exercises consisting of gentle range of motion exercises. " />
+  <TreatMent  isChecked="False" name="ultrasound, " />
+  <TreatMent  isChecked="False" name="neuro muscular re-education, " />
+  <TreatMent  isChecked="False" name="myofascial release, " />
+  <TreatMent  isChecked="False" name="manual massage, " />
+  <TreatMent  isChecked="False" name="stretching techniques, " />
+  <TreatMent  isChecked="False" name="strengthening exercises to the __________, " />
+  <TreatMent  isChecked="False" name="lumbosacral stabilization, " />
+  <TreatMent  isChecked="False" name="paraffin treatment to the __________. " />
+  <TreatMent  isChecked="False" name="Patient is totally disabled at the present time. " />
+  <TreatMent  isChecked="False" name="Patient maintains a partial disability. " />
+  <TreatMent  isChecked="False" name="Treatment will begin ____ times a week for ____ weeks. The patient will be reevaluated in approximately ____ weeks, at which point in time I will assess the progress with physical therapy (and review the diagnostics that I have requested). It is my opinion the injuries sustained are causally related to the accident as described by the patient. " />
+
+</TreatMents>
